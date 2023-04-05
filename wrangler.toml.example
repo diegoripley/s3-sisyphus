@@ -1,0 +1,7 @@
+name = "s3-sisyphus"
+type = "javascript"
+
+account_id = "changeme"
+workers_dev = true
+route = "https://s3.sisyphus.ca/*"
+compatibility_date = "2023-02-12"
